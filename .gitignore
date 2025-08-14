@@ -18,6 +18,7 @@ lib/
 lib64/
 parts/
 /data
+*.zip
 sdist/
 var/
 wheels/
